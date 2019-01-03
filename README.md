@@ -1,6 +1,6 @@
 # hello-worldtest
 Test Project
-Name-Mohan Valluri 
+Name-Mohan Krishna Valluri 
 Current Title- Manufacturing Automation Engineer
 Aspiring Title- Data Scientist, Machine Learning Engineer, Robotics Engineer, Management and Strategy Consultant, IoT Engineer
 Current VISA Status- F1
